@@ -42,7 +42,7 @@ th, td {
   width: 350px;
 }
 
-#cell1 {background-color: #fff}
-#cell2 {background-color: #E8E7ED; color:#FFFEC9;}
-#cell3 {background-color: #000000; color:#ffffff;}
-#cell4 {background-color: #283A00}
+#cell1 {background-color: #fff; color:#000000;}
+#cell2 {background-color: #fff; color:#000000;}
+#cell3 {background-color: #000; color:#fff;}
+#cell4 {background-color: #000; color:#fff;}
